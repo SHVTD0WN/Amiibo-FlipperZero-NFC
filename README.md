@@ -19,7 +19,9 @@ Téléchargez le fichier [Amiibo_Files.zip] puis extrayez l'archive dans le rép
 
 
 
-Share the link to help a friend 
+Share the link to help a friend.
+.
+.
 Partagez le lien pour aidez un ami  
 
 https://github.com/SHVTD0WN       
