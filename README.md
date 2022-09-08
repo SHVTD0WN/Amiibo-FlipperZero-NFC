@@ -1,6 +1,3 @@
-         https://github.com/SHVTD0WN                            
-
-
 
 README
 # FlipperAmiibo
