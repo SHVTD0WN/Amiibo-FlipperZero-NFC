@@ -19,3 +19,10 @@ Une collection de fichiers FlipperZero NFC qui émulent Amiibo (récupérés dep
 
 #Mise en place
 Téléchargez le fichier [Amiibo_Files.zip] puis extrayez l'archive dans le répertoire `nfc` sur la carte SD de votre Flipper.
+
+
+
+Share the link to help a friend 
+Partagez le lien pour aidez un ami  
+
+https://github.com/SHVTD0WN       
